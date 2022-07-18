@@ -5,7 +5,6 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
-    grid-g
 }
 main{
     display: flex;
@@ -124,7 +123,6 @@ hr{
     .player, .blog{
         flex-direction: column;
     }
-    
 }
 
 /* tablet devices  */

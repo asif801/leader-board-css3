@@ -1,1 +1,9 @@
 ctrl f find and replace
+
+icon kit add
+main ar vitor shob
+section ar vitor players and blog
+div ar vitor player shob
+main sec div h2 div (div img h3 div) div div hr 
+div h2 div (article div img div div h3 p div article) div div sec 
+sec h2 div (div div img div div h3 p div div i span div6) div sec main   
